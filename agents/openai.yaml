@@ -1,0 +1,4 @@
+interface:
+  display_name: "图转可编辑PPT"
+  short_description: "高还原、干净分层：文字可改，图片可换，素材可复用，附底层无字检查"
+  default_prompt: "使用 $image-to-editable-ppt，把我上传的参考图还原为可拆分 PPTX，文字可编辑、图片无原文残影，真实截图留占位，附独立素材和底层检查图。"
